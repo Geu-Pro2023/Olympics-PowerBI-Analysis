@@ -6,6 +6,10 @@ The analysis was conducted using **Power BI and Microsoft Excel**, with a strong
 
 ---
 
+##  Dashboard Preview
+[Olympics.pdf](https://github.com/user-attachments/files/24165965/Olympics.pdf)
+
+
 ## Objectives
 - Analyze Olympic participation trends across sports and countries  
 - Examine medal distribution by country and individual athletes  
