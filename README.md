@@ -7,8 +7,7 @@ The analysis was conducted using **Power BI and Microsoft Excel**, with a strong
 ---
 
 ##  Dashboard Preview
-[Olympics.pdf](https://github.com/user-attachments/files/24165965/Olympics.pdf)
-
+<img width="968" height="544" alt="Screenshot 2025-12-15 at 3 10 02 pm" src="https://github.com/user-attachments/assets/982d8cd3-27ca-49ad-8463-ed3722f83305" />
 
 ## Objectives
 - Analyze Olympic participation trends across sports and countries  
