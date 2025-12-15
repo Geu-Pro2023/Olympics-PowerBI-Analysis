@@ -1,0 +1,69 @@
+# Olympics Data Analysis – Power BI Dashboard
+## Project Overview
+
+This project analyzes historical Olympic Games data (Summer & Winter) to uncover insights related to sports participation, medal distribution, country performance, and gender representation.
+The analysis was conducted using Power BI and Excel, with a focus on data cleaning, aggregation, and visual storytelling.
+
+## Objectives
+
+- Analyze Olympic participation trends across sports and countries
+- Examine medal distribution by country and athlete
+- Understand gender participation and medal disparities
+- Build an interactive Power BI dashboard for exploratory analysis and reporting
+
+## Tools & Technologies
+
+- Power BI – Interactive dashboards & visual analytics
+- Microsoft Excel – Data cleaning, preparation, and validation
+- Dataset – Historical Olympic data up to the 2016 Games
+
+## Key Insights
+🏟 Sports Participation
+- A total of 67 sports have been featured in the Olympic Games (Summer & Winter combined) up to 2016.
+
+🌍 Country Participation
+- 231 countries have participated in the Olympics.
+- Only 148 countries have won at least one medal, highlighting disparities in global sporting success.
+
+⚥ Gender Representation
+- Male participation and medal wins historically exceed female participation.
+Example:
+
+  - 1992 Olympics → 11,212 male athletes vs 5,164 female athletes.
+  - Indicates progress is needed toward gender balance in sports.
+
+🥇 Medal Distribution
+- Top medal-winning countries:
+  - United States – 5,637 medals
+- Russia – 2,503 medals
+- Germany – 2,165 medals
+
+🧍 Individual Medal Leaders
+- Michael Phelps – 28 total medals (23 gold)
+-Larysa Latynina – 18 total medals (9 gold)
+
+## 📈 Dashboard Features
+
+- Country-wise medal distribution
+- Gender participation trends over time
+- Top-performing athletes and nations
+- Interactive filters for sport, year, and gender
+
+## 💡 Business & Analytical Insights
+
+- Gender disparities suggest structural and historical barriers to female participation.
+- Dominance of certain countries points to factors such as investment, infrastructure, and training systems.
+- Individual athlete success reflects long-term performance development and consistency.
+
+## Recommendations
+
+- Conduct deeper analysis into gender gaps in participation and medals.
+- Study policies and funding models of top-performing countries.
+- Analyze trends in emerging sports to identify future medal opportunities.
+- Use dashboards as decision-support tools for sports organizations and policymakers.
+
+## Author
+- Geu Aguto Garang Bior
+📧 g.bior@alustudent.com
+🔗 LinkedIn: www.linkedin.com/in/geu-aguto-garang-70248b269 
+🐙 GitHub:  https://github.com/Geu-Pro2023 
