@@ -1,12 +1,12 @@
 # 🏅 Olympics Data Analysis – Power BI Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes historical Olympic Games data (Summer and Winter) to uncover insights related to **sports participation, medal distribution, country performance, and gender representation**.  
 The analysis was conducted using **Power BI and Microsoft Excel**, with a strong focus on **data cleaning, aggregation, and visual storytelling** to support data-driven insights.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze Olympic participation trends across sports and countries  
 - Examine medal distribution by country and individual athletes  
 - Understand gender participation and medal disparities  
@@ -14,14 +14,14 @@ The analysis was conducted using **Power BI and Microsoft Excel**, with a strong
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Power BI** – Interactive dashboards and visual analytics  
 - **Microsoft Excel** – Data cleaning, preparation, and validation  
 - **Dataset** – Historical Olympic Games data up to the 2016 Olympics  
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 ### 🏟 Sports Participation
 - A total of **67 sports** have been featured in the Olympic Games (Summer and Winter combined) up to 2016.
@@ -48,7 +48,7 @@ The analysis was conducted using **Power BI and Microsoft Excel**, with a strong
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 - Country-wise medal distribution  
 - Gender participation trends over time  
 - Top-performing athletes and nations  
@@ -63,7 +63,7 @@ The analysis was conducted using **Power BI and Microsoft Excel**, with a strong
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 - Conduct deeper analysis into **gender gaps** in participation and medal distribution.
 - Study policies, funding models, and training systems of top-performing countries.
 - Analyze trends in emerging sports to identify potential future medal opportunities.
@@ -71,7 +71,7 @@ The analysis was conducted using **Power BI and Microsoft Excel**, with a strong
 
 ---
 
-## 👤 Author
+##  Author
 **Geu Aguto Garang Bior**  
 📧 Email: g.bior@alustudent.com  
 🔗 LinkedIn: https://www.linkedin.com/in/geu-aguto-garang-70248b269  
